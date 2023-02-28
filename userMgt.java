@@ -3,3 +3,4 @@ simon
 dominion
 obi
 datti
+manager
