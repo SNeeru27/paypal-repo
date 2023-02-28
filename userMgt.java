@@ -4,3 +4,4 @@ dominion
 obi
 datti
 manager
+Amaka
